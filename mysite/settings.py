@@ -25,7 +25,7 @@ SECRET_KEY = 'b!pmls36ltd_4832j%#nlz9gmke#box9fa$8t0hr$f7%&y1-2f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ingianis.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
