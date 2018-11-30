@@ -25,8 +25,12 @@ SECRET_KEY = 'b!pmls36ltd_4832j%#nlz9gmke#box9fa$8t0hr$f7%&y1-2f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+<<<<<<< HEAD
 ALLOWED_HOSTS = ['ingianis.pythonanywhere.com']
 
+=======
+ALLOWED_HOSTS = ['*']
+>>>>>>> 0685e4cfa27b33945edf393b339ad5329dbabf7b
 
 # Application definition
 
@@ -83,7 +87,7 @@ DATABASES = {
 
 
 # Password validation
-# https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
+# https://docs.djangoproject.com/en/1.11/ref/setting32s/#auth-password-validators
 
 AUTH_PASSWORD_VALIDATORS = [
     {
